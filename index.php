@@ -1,4 +1,4 @@
 <?php 
-echo "This is index file";
+echo "Updated file";
 
 ?>
